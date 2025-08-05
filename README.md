@@ -8,7 +8,9 @@ This project demonstrates a CI/CD pipeline using Jenkins to automate the build a
 The pipeline pulls source code from GitHub, builds a Docker image, and deploys the app automatically.
 
 🚀 Tech Stack & Tools
-Tool	               Purpose
+
+Tool	               Purpose  
+
 Jenkins	             CI/CD automation
 Docker	             Containerization of the app
 Flask	               Python web framework (REST API)
@@ -19,6 +21,7 @@ AWS EC2	             Server to host Jenkins & Docker
 🛠️ Project Structure
 
 TASK-2-Jenkins-CI-CD/
+
 ├── app/
 │   ├── app.py
 │   └── models.py
