@@ -1,5 +1,8 @@
 🛠️ Task 2 - Jenkins CI/CD Pipeline for Flask App Deployment
+
+
 📋 Project Overview
+
 This project demonstrates a CI/CD pipeline using Jenkins to automate the build and deployment of a simple Flask-based REST API inside a Docker container on AWS EC2.
 
 The pipeline pulls source code from GitHub, builds a Docker image, and deploys the app automatically.
@@ -28,7 +31,9 @@ TASK-2-Jenkins-CI-CD/
     ├── console-output.png
     ├── app-running.png
     └── docker-ps.png
+    
 🧱 Pipeline Flow (Jenkinsfile)
+
 Checkout Code from GitHub
 
 Build Docker Image for Flask App
