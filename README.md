@@ -64,6 +64,28 @@ http://<your-ec2-public-ip>:5000/tasks
 
 ---
 
+## 📸 Screenshots
+
+### ✅ Jenkins Dashboard
+![Jenkins Dashboard](screenshots/Jenkins%20Dashboard.png)
+
+### ✅ Jenkins Server Instance
+![Jenkins Server Instance](screenshots/Jenkins%20server%20instrance.png)
+
+### ✅ Jenkins Pipeline Success
+![Pipeline Success](screenshots/pipeline-success.png)
+
+### ✅ Console Output (Build & Deploy)
+![Console Output](screenshots/console-output.png)
+
+### ✅ Application Running in Browser
+![App Running](screenshots/app-running.png)
+
+### ✅ Docker Container Running on EC2
+![Docker ps output](screenshots/docker-ps.png)
+
+---
+
 ## ✍️ Author
 Rajeswara Rao
 
