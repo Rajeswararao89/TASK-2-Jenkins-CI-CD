@@ -73,7 +73,7 @@ http://<your-ec2-public-ip>:5000/tasks
 ![Jenkins Server Instance](screenshots/Jenkins%20server%20instrance.png)
 
 ### ✅ Jenkins Pipeline Success
-![Pipeline Success](screenshots/pipeline-success.png)
+![Pipeline Success](screenshots/Pipeline%20success.png)
 
 ### ✅ Console Output (Build & Deploy)
 ![Console Output](screenshots/console-output.png)
